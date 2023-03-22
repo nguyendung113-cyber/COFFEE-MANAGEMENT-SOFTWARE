@@ -1,0 +1,123 @@
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe.config
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\bin\Debug\QuanLyCoffee.pdb
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.AssemblyReference.cache
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.SuggestedBindingRedirects.cache
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.Properties.Resources.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.GenerateResource.cache
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.CoreCompileInputs.cache
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.exe
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.pdb
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTrangChu.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmBanHang.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangKy.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangNhap.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmQuanLyBan.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmSanPham.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmThongKe.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTaiKhoan.resources
+D:\Hutech\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmHoaDon.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe.config
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\bin\Debug\QuanLyCoffee.pdb
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.AssemblyReference.cache
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmBanHang.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangKy.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangNhap.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmHoaDon.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmQuanLyBan.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmSanPham.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTaiKhoan.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmThongKe.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTrangChu.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.Properties.Resources.resources
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.GenerateResource.cache
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.CoreCompileInputs.cache
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.exe
+D:\Code\Đồ án chuyên ngành\QuanLyCoffee\obj\Debug\QuanLyCoffee.pdb
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe.config
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.pdb
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.AssemblyReference.cache
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmBanHang.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangNhap.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmHoaDon.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmQuanLyBan.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmSanPham.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTaiKhoan.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmThongKe.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTrangChu.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.Properties.Resources.resources
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.GenerateResource.cache
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.exe
+C:\Users\DUNG\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.pdb
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe.config
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.pdb
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.AssemblyReference.cache
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangNhap.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmHoaDon.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmQuanLyBan.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmSanPham.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTaiKhoan.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmThongKe.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTrangChu.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.Properties.Resources.resources
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.GenerateResource.cache
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.exe
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.pdb
+C:\Users\HLC\Downloads\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmBanHang.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe.config
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.pdb
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.AssemblyReference.cache
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmBanHang.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangNhap.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmHoaDon.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmQuanLyBan.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmSanPham.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTaiKhoan.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmThongKe.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTrangChu.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.Properties.Resources.resources
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.GenerateResource.cache
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.CoreCompileInputs.cache
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.exe
+E:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.pdb
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.AssemblyReference.cache
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmBanHang.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangNhap.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmHoaDon.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmQuanLyBan.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmSanPham.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTaiKhoan.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmThongKe.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTrangChu.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.Properties.Resources.resources
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.GenerateResource.cache
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.exe
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.pdb
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe.config
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe
+C:\Users\DUNG\Desktop\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.pdb
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe.config
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.exe
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\bin\Debug\QuanLyCoffee.pdb
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.AssemblyReference.cache
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmBanHang.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmDangNhap.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmHoaDon.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmQuanLyBan.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmSanPham.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTaiKhoan.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmThongKe.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmTrangChu.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.Properties.Resources.resources
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.GenerateResource.cache
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.csproj.CoreCompileInputs.cache
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.exe
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.pdb
+D:\Đồ án chuyên ngành (1)\QuanLyCoffee\obj\Debug\QuanLyCoffee.frmNguyenLieu.resources
